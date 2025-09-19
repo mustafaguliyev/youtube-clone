@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './Recommended.css'
-import { API_KEY, value_converter } from '../../DATA.JS'
+import { API_KEY, value_converter } from '../../data'
 import { Link } from 'react-router-dom'
 
 function Recommended({ categoryId }) {

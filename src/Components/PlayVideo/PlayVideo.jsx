@@ -5,7 +5,7 @@ import dislike from "../../assets/dislike.png";
 import share from "../../assets/share.png";
 import save from "../../assets/save.png";
 // import user_profile from "../../assets/user_profile.jpg";
-import { value_converter, API_KEY } from "../../DATA.JS";
+import { value_converter, API_KEY } from "../../data";
 import moment from "moment"; // vaxt formatlama üçün
 import { useParams } from "react-router-dom";
 
